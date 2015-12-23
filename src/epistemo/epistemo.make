@@ -7,6 +7,7 @@ defaults[projects][subdir] = contrib
 projects[] = admin_menu
 projects[] = auto_entitylabel
 projects[] = ctools
+projects[] = entityreference
 projects[] = features
 projects[] = strongarm
 projects[] = token
